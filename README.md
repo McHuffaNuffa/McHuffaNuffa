@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @McHuffaNuffa
 - 👀 I’m interested in video games, nature, and all types of media.
+- 🌱 I’m currently learning everything I need to be a Full Stack Developer.
 - 💞️ I’m looking to collaborate on anything if anybody has any ideas that could benift my projects
 - 📫 How to reach me ...
 - ⚡ Fun fact: Kangaroos can not kick backwards.
